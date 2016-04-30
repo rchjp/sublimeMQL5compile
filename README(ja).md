@@ -33,6 +33,14 @@ clorn してインストールするか、 zip をダウンロード･解凍し
 }
 ```
 
+Mac や Linux で Wine を介した MetaEditor の PATH を入力する場合の例 (未検証)
+
+```json
+{
+    "compiler_path": "/home/<Your Name>/.wine/drive_c/Program Files/MetaTrader 5/metaeditor64.exe"
+}
+```
+
 &nbsp;
 
 ## 使い方
